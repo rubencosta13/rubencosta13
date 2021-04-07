@@ -1,6 +1,10 @@
 ### Here is a little bit about me! 👋
 
+---
+### Social Networks
+<img src="https://img.shields.io/youtube/channel/subscribers/UCkUVtI_YNQcbddwvNnhSuWA?style=social">
 
+---
 - 🔭 I’m currently working on JavaScript, Python, C/C++, HTML and NPM
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Anything if relates with any language that I'm working on
