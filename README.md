@@ -9,3 +9,10 @@
 - 📫 How to reach me: [FLOWPAGE](https://flow.page/rubencostaen)
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I love making hardware!
+
+<br/>
+
+---
+###📚Latest Projects
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
