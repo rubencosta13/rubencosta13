@@ -2,10 +2,11 @@
 
 ---
 ### Social Networks
+<details>
 <img src="https://img.shields.io/youtube/channel/subscribers/UCkUVtI_YNQcbddwvNnhSuWA?style=social">
 <img src="https://img.shields.io/twitch/status/RubenCostaLivestream?style=social">
 <img src="https://img.shields.io/github/followers/rubencosta13?style=social">
-
+</details>
 ---
 - 🔭 I’m currently working on JavaScript, Python, C/C++, HTML and NPM
 - 🌱 I’m currently learning JavaScript
