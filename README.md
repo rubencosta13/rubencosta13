@@ -1,7 +1,7 @@
 ### Here is a little bit about me! 👋
 
 ---
-### Social Networks
+
 <details>
   <summary>Social Networks</summary>
 <img src="https://img.shields.io/youtube/channel/subscribers/UCkUVtI_YNQcbddwvNnhSuWA?style=social">
