@@ -28,6 +28,6 @@
 
 ---
 
-<img src="https://simpleicons.org/icons/css3.svg" widht="250" height="250">
+<img src="https://simpleicons.org/icons/css3.svg" widht="150" height="150">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
