@@ -30,6 +30,8 @@
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
+<img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618005161~hmac=6ee462579f5222df6aece4174c47ad5a" width="150" height="150">
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
