@@ -28,7 +28,6 @@
 
 ---
 
-![](https://simpleicons.org/icons/css3.svg)
-
+![CSS](https://simpleicons.org/icons/css3.svg =250x250)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
