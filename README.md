@@ -45,7 +45,9 @@
 <details>
   <summary>Hardware knowledgement</summary>
   
-  Teste
+  I have already: 
+  -Build, diagnosed, and successfully fixed hardware issues, majorly in computers.
+  -Developed my own hardware (PCB's)
  </detais>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
