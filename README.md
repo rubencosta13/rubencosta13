@@ -30,7 +30,7 @@
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618005161~hmac=6ee462579f5222df6aece4174c47ad5a" width="150" height="150"><img src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1618005341~hmac=4d8245a52552e6f2f7dee0bd8704b315" width="150" height="150">
-
+<img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618005161~hmac=6ee462579f5222df6aece4174c47ad5a" width="150" height="150"><img src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1618005341~hmac=4d8245a52552e6f2f7dee0bd8704b315" width="150" height="150"><img src="https://www.flaticon.com/svg/vstatic/svg/1199/1199124.svg?token=exp=1618005635~hmac=249b6771f45df4da09b7da3b4789e532" width="150"
+ height="150">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
