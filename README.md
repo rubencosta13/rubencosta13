@@ -46,7 +46,7 @@
   <summary>Hardware knowledgement</summary>
   
   I have already: 
-  -Build, diagnosed, and successfully fixed hardware issues, majorly in computers.
+  -Build, diagnosed, and successfully fixed hardware issues, majorly in computers.<br>
   -Developed my own hardware (PCB's)
  </detais>
 <!--START_SECTION:waka-->
