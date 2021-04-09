@@ -45,7 +45,7 @@
 <details>
   <summary>Hardware knowledgement</summary>
   
-  I have already: 
+  I have already:<br>
   -Build, diagnosed, and successfully fixed hardware issues, majorly in computers.<br>
   -Developed my own hardware (PCB's)
  </detais>
