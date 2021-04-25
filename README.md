@@ -24,8 +24,7 @@
 
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=rubencosta13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<figure><embed src="https://wakatime.com/share/@960b37f8-fbc7-4692-848e-ae26c37a026e/e45c0b01-8382-4a11-aaa6-80dfb2f6e133.svg"></embed></figure>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@960b37f8-fbc7-4692-848e-ae26c37a026e/436544ff-70d2-4132-abf3-437c27f5cada.png" /></a>
 ---
 
 <details>
