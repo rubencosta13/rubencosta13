@@ -26,7 +26,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rubencosta13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@960b37f8-fbc7-4692-848e-ae26c37a026e/436544ff-70d2-4132-abf3-437c27f5cada.png" /></a>
 
-[My programming languages stats](https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=rubencosta13&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true)
+[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=CannonStealth&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true)]()
 ---
 
 <details>
