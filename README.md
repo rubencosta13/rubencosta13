@@ -11,8 +11,8 @@
 
 ---
 
-- 🔭 I’m currently working on JavaScript, Python, C/C++, HTML and NPM
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on JavaScript, Python, C/C++, HTML and NODE
+- 🌱 I’m currently learning REST APIS
 - 👯 I’m looking to collaborate on Anything if relates with any language that I'm working on
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about Anything, if I don't know I will find it
