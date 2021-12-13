@@ -12,9 +12,9 @@
 ---
 
 - 🔭 I’m currently working on JavaScript, Python, C/C++, HTML and NODE
-- 🌱 I’m currently learning REST APIS
+- 🌱 I’m currently learning Dev ops
 - 👯 I’m looking to collaborate on Anything if relates with any language that I'm working on
-- 🤔 I’m looking for help with JavaScript
+- 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about Anything, if I don't know I will find it
 - 📫 How to reach me: [FLOWPAGE](https://flow.page/rubencostaen)
 - 😄 Pronouns: HE/HIM
