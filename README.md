@@ -18,7 +18,7 @@
 - 💬 Ask me about Anything, if I don't know I will find it
 - 📫 How to reach me: [FLOWPAGE](https://flow.page/rubencostaen)
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I love making hardware!
+- ⚡ Fun fact: I love swimning!
 
 <br/>
 
