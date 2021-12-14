@@ -18,7 +18,7 @@
 - 💬 Ask me about Anything, if I don't know I will find it
 - 📫 How to reach me: [email](mailto:rubenlavoscosta@gmail.com)
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I love swimning!
+- 🏊 Fun fact: I love swimning!
 
 <br/>
 
