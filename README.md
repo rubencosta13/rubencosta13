@@ -53,5 +53,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Hey](https://komarev.com/ghpvc/?username=rubencosta13&color=green)
+![Hey](https://komarev.com/ghpvc/?username=rubencosta13&color=blue)
 
