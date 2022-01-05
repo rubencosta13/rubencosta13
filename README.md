@@ -19,8 +19,19 @@
   <a href="https://www.linkedin.com/in/r%C3%BAben-costa-3733b21a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
+<div>
+<p>Technologies I use:</p>
+  <a href="https://github.com/rubencosta13?tab=repositories&q=&type=&language=javascript"><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center"  alt="Mongo-DB" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <a href="https://github.com/rubencosta13?tab=repositories&q=&type=&language=javascript"><img align="center"  alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></a>
+  <a href="https://github.com/rubencosta13?tab=repositories&q=&type=&language=javascript"><img align="center"  alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://github.com/rubencosta13?tab=repositories&q=&type=&language=javascript"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://github.com/rubencosta13?tab=repositories&q=&type=&language=html"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://github.com/rubencosta13?tab=repositories&q=&type=&language=css&sort="><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+</div>
+<br>
+<hr>
 <div align="center">
   <a href="https://github.com/rubencosta13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubencosta13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
