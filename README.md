@@ -8,6 +8,7 @@
   <li> 💬 Ask me about Anything, if I don't know I will find it</li>
   <li> 📫 How to reach me: <a href="mailto:rubenlavoscosta@gmail.com">Email me</a></li>
   <li> 🏊 Fun fact: I love swimning!</li>
+  <li> ⭐ If you like my projects, leave a <strong>star</strong>, it helps me and it's free!</li>
 <ul>
 <hr>
 
