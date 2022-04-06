@@ -7,12 +7,14 @@
   <li> 🌱 I’m currently learning Typescript</li>
   <li> 💬 Ask me about Anything, if I don't know I will find it</li>
   <li> 📫 How to reach me: <a href="mailto:rubenlavoscosta@gmail.com">Email me</a></li>
-  <li> 🏊 Fun fact: I'm in love with Vancouver, Canada 🇨🇦!</li>
+  <li> 🇨🇦 Fun fact: I'm in love with Vancouver, Canada 🇨🇦!</li>
   <li> ⭐ If you like my projects, leave a <strong>🌟</strong>, it helps me and it's free!</li>
 <ul>
 <hr>
 
 <div> 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
   <a href="https://www.instagram.com/__ruben.costa__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rubencostalivestream" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/yzFkVPSQHK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -31,6 +33,8 @@
   <a href="https://github.com/rubencosta13?tab=repositories&q=&type=&language=html"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://github.com/rubencosta13?tab=repositories&q=&type=&language=css&sort="><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="40" alt="DOCKER"/>
+      <i class="devicon-kubernetes-plain-wordmark colored"></i>
+
 </div>
 <br>
 <hr>
