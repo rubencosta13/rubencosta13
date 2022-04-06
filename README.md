@@ -33,7 +33,7 @@
   <a href="https://github.com/rubencosta13?tab=repositories&q=&type=&language=html"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://github.com/rubencosta13?tab=repositories&q=&type=&language=css&sort="><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="40" alt="DOCKER"/>
-      <i class="devicon-kubernetes-plain-wordmark colored"></i>
+<img align="center"  alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 
 </div>
 <br>
