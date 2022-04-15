@@ -3,9 +3,10 @@
 </div>
 <hr>
 <ul>
-  <li> 🔭 I’m currently working on BackEnd Development</li>
+  <li> 🔭 I’m currently working on BackEnd Development & DevOps</li>
   <li> 🌱 I’m currently learning Typescript</li>
   <li> 💬 Ask me about Anything, if I don't know I will find it</li>
+  <li> ❌ Not fond of web design, although, with a solid design I'm good at FrontEnd 😅</li>
   <li> 📫 How to reach me: <a href="mailto:rubenlavoscosta@gmail.com">Email me</a></li>
   <li> 🇨🇦 Fun fact: I'm in love with <a href="https://media.istockphoto.com/photos/vancouver-stanley-park-picture-id157504844?k=20&m=157504844&s=612x612&w=0&h=tCJASV2-P51gnk4M-RQ1wNgkpfaBBJZGAyTuyexWgoM=">Vancouver, Canada 🇨🇦!</a></li>
   <li> ⭐ If you like my projects, leave a <strong>🌟</strong>, it helps me and it's free!</li>
