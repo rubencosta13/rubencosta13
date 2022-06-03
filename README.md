@@ -41,10 +41,11 @@
 </div>
 <br>
 <hr>
-<div align="center">
+<div>
   <a href="https://github.com/rubencosta13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubencosta13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubencosta13&layout=compact&langs_count=7&theme=tokyonight"/>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rubencosta13&theme=github-dark-blue&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 </div>
 
 <hr>
