@@ -12,7 +12,7 @@
   <li> ⭐ If you like my projects, leave a <strong>🌟</strong>, it helps me and it's free!</li>
 <ul>
 <hr>
-
+<img src="https://metrics.lecoq.io/rubencosta13?template=classic&config.timezone=Europe%2FLisbon" />
 <div> 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
