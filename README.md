@@ -41,7 +41,7 @@
 <br>
 <hr>
 <div>
-  <img src="https://metrics.lecoq.io/rubencosta13?template=classic&config.timezone=Europe%2FLisbon" />
+  <img src="https://metrics.lecoq.io/rubencosta13?template=classic&config.timezone=Europe%2FLisbon" /> <br />
   <a href="https://github.com/rubencosta13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubencosta13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubencosta13&layout=compact&langs_count=7&theme=tokyonight"/>
