@@ -40,7 +40,6 @@
 </div>
 <br>
 <hr>
-<script src="https://gist.github.com/rubencosta13/62cbeb8c44db9a008ab49513c670756a.js"></script>
 <div>
   <img src="https://metrics.lecoq.io/rubencosta13?template=classic&config.timezone=Europe%2FLisbon" /> <br />
   <a href="https://github.com/rubencosta13">
